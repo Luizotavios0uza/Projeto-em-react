@@ -1,0 +1,8 @@
+.round {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin: auto;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
